@@ -1,7 +1,5 @@
 package com.cg.entity;
 
-//some random comment
-
 import java.io.File;
 import java.io.IOException;
 
